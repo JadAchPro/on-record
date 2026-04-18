@@ -12,8 +12,14 @@
     "source_url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-says-hes-on-a-historic-and-spiritual-mission-endorses-vision-of-greater-israel/",
     "source_type": "article",
     "attachments": [
-      {"type": "article", "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-says-hes-on-a-historic-and-spiritual-mission-endorses-vision-of-greater-israel/"},
-      {"type": "article", "url": "https://www.middleeasteye.net/news/netanyahu-embraces-greater-israel-vision-including-parts-jordan-and-egypt"}
+      {
+        "type": "article",
+        "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-says-hes-on-a-historic-and-spiritual-mission-endorses-vision-of-greater-israel/"
+      },
+      {
+        "type": "article",
+        "url": "https://www.middleeasteye.net/news/netanyahu-embraces-greater-israel-vision-including-parts-jordan-and-egypt"
+      }
     ],
     "image": ""
   },
@@ -30,9 +36,18 @@
     "source_url": "https://www.palestinechronicle.com/greater-israel-project-smotrich-calls-for-israels-borders-to-extend-to-syria-saudi-arabia/",
     "source_type": "article",
     "attachments": [
-      {"type": "article", "url": "https://www.palestinechronicle.com/greater-israel-project-smotrich-calls-for-israels-borders-to-extend-to-syria-saudi-arabia/"},
-      {"type": "article", "url": "https://www.axios.com/2023/03/20/bezalel-smotrich-jordan-greater-israel-map-palestinians"},
-      {"type": "article", "url": "https://www.middleeastmonitor.com/20241120-smotrich-has-confirmed-that-the-quest-for-greater-israel-is-real/"}
+      {
+        "type": "article",
+        "url": "https://www.palestinechronicle.com/greater-israel-project-smotrich-calls-for-israels-borders-to-extend-to-syria-saudi-arabia/"
+      },
+      {
+        "type": "article",
+        "url": "https://www.axios.com/2023/03/20/bezalel-smotrich-jordan-greater-israel-map-palestinians"
+      },
+      {
+        "type": "article",
+        "url": "https://www.middleeastmonitor.com/20241120-smotrich-has-confirmed-that-the-quest-for-greater-israel-is-real/"
+      }
     ],
     "image": ""
   },
@@ -49,8 +64,1033 @@
     "source_url": "https://www.aljazeera.com/news/2026/2/20/us-envoy-suggests-it-would-be-fine-if-israel-expands-across-middle-east",
     "source_type": "article",
     "attachments": [
-      {"type": "article", "url": "https://www.aljazeera.com/news/2026/2/20/us-envoy-suggests-it-would-be-fine-if-israel-expands-across-middle-east"},
-      {"type": "article", "url": "https://www.cnn.com/2026/02/21/middleeast/huckabee-israel-us-land-intl"}
+      {
+        "type": "article",
+        "url": "https://www.aljazeera.com/news/2026/2/20/us-envoy-suggests-it-would-be-fine-if-israel-expands-across-middle-east"
+      },
+      {
+        "type": "article",
+        "url": "https://www.cnn.com/2026/02/21/middleeast/huckabee-israel-us-land-intl"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 4,
+    "quote": "I have ordered a complete siege on the Gaza Strip. There will be no electricity, no food, no fuel, everything is closed. We are fighting human animals and we are acting accordingly.",
+    "context": "Statement made on 9 October 2023, announcing a complete siege on Gaza.",
+    "description": "",
+    "author": "Yoav Gallant",
+    "role": "Defense Minister of Israel",
+    "category": "politician",
+    "date_statement": "2023-10-09",
+    "date_recorded": "2023-10-09",
+    "source_url": "https://www.timesofisrael.com/liveblog_entry/defense-minister-announces-complete-siege-of-gaza-no-power-food-or-fuel/",
+    "source_type": "article",
+    "attachments": [
+      {
+        "type": "article",
+        "url": "https://www.timesofisrael.com/liveblog_entry/defense-minister-announces-complete-siege-of-gaza-no-power-food-or-fuel/"
+      },
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=ZbPdR3E4hCk"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 5,
+    "quote": "Erase Gaza. Nothing else will satisfy us. Do not leave a child there, expel all the remaining ones at the end, so that they will not have a resurrection.",
+    "context": "Statement posted on social media on 10 October 2023.",
+    "description": "",
+    "author": "Nissim Vaturi",
+    "role": "Deputy Speaker of the Knesset",
+    "category": "politician",
+    "date_statement": "2023-10-10",
+    "date_recorded": "2023-10-10",
+    "source_url": "https://twitter.com/nissimv/status/1711261388809568458",
+    "source_type": "tweet",
+    "attachments": [
+      {
+        "type": "tweet",
+        "url": "https://twitter.com/nissimv/status/1711261388809568458"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 6,
+    "quote": "We cannot have women and children getting close to the border... anyone who gets near must get a bullet.",
+    "context": "Statement by the National Security Minister.",
+    "description": "",
+    "author": "Itamar Ben Gvir",
+    "role": "National Security Minister of Israel",
+    "category": "politician",
+    "date_statement": "2023-10",
+    "date_recorded": "2023-10",
+    "source_url": "https://www.jpost.com/israel-hamas-war/article-786342",
+    "source_type": "article",
+    "attachments": [
+      {
+        "type": "article",
+        "url": "https://www.jpost.com/israel-hamas-war/article-786342"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 7,
+    "quote": "It's an entire nation out there that is responsible. This rhetoric about civilians not aware, not involved, it's absolutely not true.",
+    "context": "Statement made on 13 October 2023 by the President of Israel, holding the entire Palestinian nation responsible.",
+    "description": "",
+    "author": "Isaac Herzog",
+    "role": "President of Israel",
+    "category": "politician",
+    "date_statement": "2023-10-13",
+    "date_recorded": "2023-10-13",
+    "source_url": "https://twitter.com/Sprinter99800/status/1713064886027063584",
+    "source_type": "tweet",
+    "attachments": [
+      {
+        "type": "tweet",
+        "url": "https://twitter.com/Sprinter99800/status/1713064886027063584"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 8,
+    "quote": "Netanyahu compares Gaza to Amalek, whose memory God calls Israel to erase in the Bible (Deuteronomy 25:19).",
+    "context": "Netanyahu invoked the biblical reference to Amalek, a tribe God commanded Israel to annihilate, in reference to Gaza.",
+    "description": "",
+    "author": "Benjamin Netanyahu",
+    "role": "Prime Minister of Israel",
+    "category": "politician",
+    "date_statement": "2023-10",
+    "date_recorded": "2023-10",
+    "source_url": "https://youtu.be/pMVs7akyMh0?si=MgoUouW0eCh7F380",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://youtu.be/pMVs7akyMh0?si=MgoUouW0eCh7F380"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 9,
+    "quote": "Nuking Gaza is an option. People should go to Ireland or to the desert.",
+    "context": "Statement made in 2023 by the Heritage Minister, who was subsequently suspended from cabinet meetings.",
+    "description": "",
+    "author": "Amichai Eliyahu",
+    "role": "Heritage Minister of Israel",
+    "category": "politician",
+    "date_statement": "2023-11",
+    "date_recorded": "2023-11",
+    "source_url": "https://www.timesofisrael.com/far-right-minister-says-nuking-gaza-an-option-pm-suspends-him-from-cabinet-meetings/",
+    "source_type": "article",
+    "attachments": [
+      {
+        "type": "article",
+        "url": "https://www.timesofisrael.com/far-right-minister-says-nuking-gaza-an-option-pm-suspends-him-from-cabinet-meetings/"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 10,
+    "quote": "Now is time for destruction, annihilation, and devastation.",
+    "context": "Statement attributed to Ben Gvir.",
+    "description": "",
+    "author": "Itamar Ben Gvir",
+    "role": "National Security Minister of Israel",
+    "category": "politician",
+    "date_statement": "2025-06-02",
+    "date_recorded": "2025-06-02",
+    "source_url": "https://www.instagram.com/reel/DKaA5ljqMuh/?igsh=ZnE0ODZuaGdjNTFl",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/reel/DKaA5ljqMuh/?igsh=ZnE0ODZuaGdjNTFl"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 11,
+    "quote": "The unequivocal goal of the war we are in the midst of is the complete dismantling of civilian capabilities.",
+    "context": "Statement made on 9 October 2023 on Channel 14.",
+    "description": "",
+    "author": "Bezalel Smotrich",
+    "role": "Finance Minister of Israel",
+    "category": "politician",
+    "date_statement": "2023-10-09",
+    "date_recorded": "2023-10-09",
+    "source_url": "https://www.youtube.com/playlist?list=PL8E54R76rowCcCOn_HQf36o1RF3_oD3z4",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/playlist?list=PL8E54R76rowCcCOn_HQf36o1RF3_oD3z4"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 12,
+    "quote": "Those are animals, they have no right to exist. I am not debating the way it will happen, but they need to be exterminated.",
+    "context": "Statement made on 9 October 2023 on Channel 14's 'The Patriots'.",
+    "description": "",
+    "author": "Yoav Kisch",
+    "role": "Education Minister of Israel",
+    "category": "politician",
+    "date_statement": "2023-10-09",
+    "date_recorded": "2023-10-09",
+    "source_url": "https://www.youtube.com/playlist?list=PL8E54R76rowCcCOn_HQf36o1RF3_oD3z4",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/playlist?list=PL8E54R76rowCcCOn_HQf36o1RF3_oD3z4"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 13,
+    "quote": "I don't care about Gaza. I literally don't care at all. They can go out and swim in the sea. I want to see dead bodies of terrorists around Gaza.",
+    "context": "Statement made on 13 October 2023.",
+    "description": "",
+    "author": "May Golan",
+    "role": "Minister of the Advancement of the Status of Women",
+    "category": "politician",
+    "date_statement": "2023-10-13",
+    "date_recorded": "2023-10-13",
+    "source_url": "https://twitter.com/PODEMOS/status/1712749638770438487",
+    "source_type": "tweet",
+    "attachments": [
+      {
+        "type": "tweet",
+        "url": "https://twitter.com/PODEMOS/status/1712749638770438487"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 14,
+    "quote": "We must not show mercy to cruel people, there is no place for any humanitarian gestures — we must erase the memory of Amalek.",
+    "context": "Statement made on 16 October 2023, invoking the biblical Amalek reference.",
+    "description": "",
+    "author": "Boaz Bismuth",
+    "role": "Member of Knesset",
+    "category": "politician",
+    "date_statement": "2023-10-16",
+    "date_recorded": "2023-10-16",
+    "source_url": "https://www.inn.co.il/flashes/954554",
+    "source_type": "article",
+    "attachments": [
+      {
+        "type": "article",
+        "url": "https://www.inn.co.il/flashes/954554"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 15,
+    "quote": "Without hunger and thirst among the Gazan population, we will not succeed in recruiting collaborators, we will not succeed in bribing people with food, drink, medicine, in order to obtain intelligence.",
+    "context": "Statement made on 23 October 2023.",
+    "description": "",
+    "author": "Revital Gotliev",
+    "role": "Likud Member of Knesset",
+    "category": "politician",
+    "date_statement": "2023-10-23",
+    "date_recorded": "2023-10-23",
+    "source_url": "https://twitter.com/YehudaShaul/status/1723375950673449198",
+    "source_type": "tweet",
+    "attachments": [
+      {
+        "type": "tweet",
+        "url": "https://twitter.com/YehudaShaul/status/1723375950673449198"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 16,
+    "quote": "There should be 2 goals for this victory: 1. There is no more Muslim land in the Land of Israel. After we make it the land of Israel, Gaza should be left as a monument, like Sodom.",
+    "context": "Statement made on 25 October 2023.",
+    "description": "",
+    "author": "Amit Halevi",
+    "role": "Likud Member of Knesset",
+    "category": "politician",
+    "date_statement": "2023-10-25",
+    "date_recorded": "2023-10-25",
+    "source_url": "https://twitter.com/YehudaShaul/status/1717219175054115240",
+    "source_type": "tweet",
+    "attachments": [
+      {
+        "type": "tweet",
+        "url": "https://twitter.com/YehudaShaul/status/1717219175054115240"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 17,
+    "quote": "Right now, one goal: Nakba that will overshadow the Nakba of 48. Nakba in Gaza and Nakba to anyone who dares to join!",
+    "context": "Statement by Israeli Parliament member calling for a second Nakba.",
+    "description": "",
+    "author": "Ariel Kallner",
+    "role": "Member of Knesset",
+    "category": "politician",
+    "date_statement": "2023-10",
+    "date_recorded": "2023-10",
+    "source_url": "https://youtube.com/shorts/wyOS1j8tap4?si=NcyL7T-a12_2pKPb",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://youtube.com/shorts/wyOS1j8tap4?si=NcyL7T-a12_2pKPb"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 18,
+    "quote": "We are deploying the Nakba. The Nakba of 2023, that's how it will end.",
+    "context": "Statement by the Agriculture Minister.",
+    "description": "",
+    "author": "Avi Dichter",
+    "role": "Agriculture Minister of Israel",
+    "category": "politician",
+    "date_statement": "2023-11",
+    "date_recorded": "2023-11",
+    "source_url": "https://www.haaretz.com/israel-news/2023-11-12/ty-article/israeli-security-cabinet-member-calls-north-gaza-evacuation-nakba-2023/0000018b-c2be-dea2-a9bf-d2be7b670000",
+    "source_type": "article",
+    "attachments": [
+      {
+        "type": "article",
+        "url": "https://www.haaretz.com/israel-news/2023-11-12/ty-article/israeli-security-cabinet-member-calls-north-gaza-evacuation-nakba-2023/0000018b-c2be-dea2-a9bf-d2be7b670000"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 19,
+    "quote": "The children of Gaza have brought this upon themselves.",
+    "context": "Statement by Israeli Parliament member.",
+    "description": "",
+    "author": "Meirav Ben-Ari",
+    "role": "Member of Knesset",
+    "category": "politician",
+    "date_statement": "2023-10",
+    "date_recorded": "2023-10",
+    "source_url": "https://www.instagram.com/reel/Cy_aSp6JEhQ/?igshid=MzRlODBiNWFlZA==",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/reel/Cy_aSp6JEhQ/?igshid=MzRlODBiNWFlZA=="
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 20,
+    "quote": "There should be no limit to the casualties on civilians in Gaza.",
+    "context": "Statement by US Senator in support of Israel's military operations.",
+    "description": "",
+    "author": "Lindsey Graham",
+    "role": "US Senator",
+    "category": "politician",
+    "date_statement": "2023-11",
+    "date_recorded": "2023-11",
+    "source_url": "https://amp.theguardian.com/us-news/2023/nov/01/lindsey-graham-israel-hamas-war-civilian-casualties",
+    "source_type": "article",
+    "attachments": [
+      {
+        "type": "article",
+        "url": "https://amp.theguardian.com/us-news/2023/nov/01/lindsey-graham-israel-hamas-war-civilian-casualties"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 21,
+    "quote": "The so-called month of Ramadan must be erased.",
+    "context": "Statement by the Heritage Minister.",
+    "description": "",
+    "author": "Amichai Eliyahu",
+    "role": "Heritage Minister of Israel",
+    "category": "politician",
+    "date_statement": "2024-03",
+    "date_recorded": "2024-03",
+    "source_url": "https://www.instagram.com/p/C4IMMLBu80a/?igsh=MTVrcmE2ZDNnNHFrMw==",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/p/C4IMMLBu80a/?igsh=MTVrcmE2ZDNnNHFrMw=="
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 22,
+    "quote": "Hundreds of tons of bombs have already been dropped on the tiny strip. The emphasis is on damage and not on accuracy.",
+    "context": "Startling admission by IDF spokesperson about the bombing strategy.",
+    "description": "",
+    "author": "Daniel Hagari",
+    "role": "IDF Spokesperson, Rear Admiral",
+    "category": "military",
+    "date_statement": "2023-10",
+    "date_recorded": "2023-10",
+    "source_url": "https://www.theguardian.com/world/2023/oct/10/right-now-it-is-one-day-at-a-time-life-on-israels-frontline-with-gaza",
+    "source_type": "article",
+    "attachments": [
+      {
+        "type": "article",
+        "url": "https://www.theguardian.com/world/2023/oct/10/right-now-it-is-one-day-at-a-time-life-on-israels-frontline-with-gaza"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 23,
+    "quote": "We made very very impressive achievement here. You look to the right, to the left, you'll see there isn't a building standing. It looks like destruction on a biblical scale.",
+    "context": "IDF officer describing the destruction in Gaza.",
+    "description": "",
+    "author": "IDF Officer",
+    "role": "IDF Officer",
+    "category": "military",
+    "date_statement": "2024",
+    "date_recorded": "2024",
+    "source_url": "https://www.instagram.com/reel/DB__Ob6u3wO/?igsh=NjI0NGhtc2RicHB4",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/reel/DB__Ob6u3wO/?igsh=NjI0NGhtc2RicHB4"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 24,
+    "quote": "There must be no limit to our response. Until we see hundreds of thousands flee Gaza, the IDF will not have completed its mission.",
+    "context": "Statement by the Education Minister.",
+    "description": "",
+    "author": "Yoav Kisch",
+    "role": "Education Minister of Israel",
+    "category": "politician",
+    "date_statement": "2023-10",
+    "date_recorded": "2023-10",
+    "source_url": "https://www.instagram.com/p/DBJ7AK1omCv/?igsh=MXJkMXlsdG1uZHM4eQ%3D%3D&img_index=8",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/p/DBJ7AK1omCv/?igsh=MXJkMXlsdG1uZHM4eQ%3D%3D&img_index=8"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 25,
+    "quote": "Bring down buildings!! Bomb without distinction!! Flatten Gaza. Without mercy! This time, there is no room for mercy!",
+    "context": "Statement posted on 7 October 2023.",
+    "description": "",
+    "author": "Revital Gottlieb",
+    "role": "Likud Member of Knesset",
+    "category": "politician",
+    "date_statement": "2023-10-07",
+    "date_recorded": "2023-10-07",
+    "source_url": "https://www.instagram.com/p/DBJ7AK1omCv/?igsh=MXJkMXlsdG1uZHM4eQ%3D%3D",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/p/DBJ7AK1omCv/?igsh=MXJkMXlsdG1uZHM4eQ%3D%3D"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 26,
+    "quote": "If the goal of this operation is not destruction, occupation, deportation and settlement, we have done nothing. Gaza should be razed and Israel's rule should be restored. This is our country.",
+    "context": "Statement made on 17 October 2023.",
+    "description": "",
+    "author": "Moshe Feiglin",
+    "role": "Israeli Politician, Leader of Zehut Party",
+    "category": "politician",
+    "date_statement": "2023-10-17",
+    "date_recorded": "2023-10-17",
+    "source_url": "https://www.youtube.com/watch?v=qnwFSdX2oTI",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=qnwFSdX2oTI"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 27,
+    "quote": "Nakba? Expel them all. If the Egyptians care so much for them — they are welcome to have them wrapped in cellophane tied with a green ribbon.",
+    "context": "Statement made on 19 October 2023.",
+    "description": "",
+    "author": "Nissim Vaturi",
+    "role": "Deputy Speaker of the Knesset",
+    "category": "politician",
+    "date_statement": "2023-10-19",
+    "date_recorded": "2023-10-19",
+    "source_url": "https://fr.timesofisrael.com/liveblog_entry/nissim-vaturi-le-vice-president-de-la-knesset-appelle-a-bruler-gaza-sur-x/",
+    "source_type": "article",
+    "attachments": [
+      {
+        "type": "article",
+        "url": "https://fr.timesofisrael.com/liveblog_entry/nissim-vaturi-le-vice-president-de-la-knesset-appelle-a-bruler-gaza-sur-x/"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 28,
+    "quote": "Erase all of Gaza from the face of the earth. That the Gazan monsters will fly to the southern fence and try to enter Egyptian territory or they will die and their death will be evil. Gaza should be erased.",
+    "context": "Statement made on 1 November 2023.",
+    "description": "",
+    "author": "Galit Distel Atbaryan",
+    "role": "Likud MP, Former Minister",
+    "category": "politician",
+    "date_statement": "2023-11-01",
+    "date_recorded": "2023-11-01",
+    "source_url": "https://www.instagram.com/reel/CzCEIbmBUKY/?igshid=MzRlODBiNWFlZA==",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/reel/CzCEIbmBUKY/?igshid=MzRlODBiNWFlZA=="
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 29,
+    "quote": "Gaza deserves death. The 2.6 million terrorists in Gaza deserve death! Men, women, and children — in every way possible, we must simply carry out a Holocaust on them — H-O-L-O-C-A-U-S-T! For me, gas chambers. Train cars.",
+    "context": "Statement posted on 27 May 2025 by a media producer and journalist.",
+    "description": "Called for 'rivers of blood' and for 'rotting corpses of Gazans to pile up in heaps and then be burned'.",
+    "author": "Elad Barashi",
+    "role": "Media Producer and Journalist",
+    "category": "media",
+    "date_statement": "2025-05-27",
+    "date_recorded": "2025-05-27",
+    "source_url": "",
+    "source_type": "article",
+    "attachments": [],
+    "image": ""
+  },
+  {
+    "id": 30,
+    "quote": "Sending all Gazans to refugee camps in Lebanon and flattening the whole Strip so it becomes an empty museum like Auschwitz.",
+    "context": "Proposal by the head of the Metula Council.",
+    "description": "",
+    "author": "David Azoulai",
+    "role": "Head of Metula Council",
+    "category": "politician",
+    "date_statement": "2023",
+    "date_recorded": "2023",
+    "source_url": "https://www.instagram.com/reel/Cz8xdrTi6YR/?igshid=MzRlODBiNWFlZA==",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/reel/Cz8xdrTi6YR/?igshid=MzRlODBiNWFlZA=="
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 31,
+    "quote": "They must be exterminated, all of them must be killed.",
+    "context": "Former football player calling for the complete destruction of Gaza and labeling all people of Gaza as terrorists.",
+    "description": "",
+    "author": "Danny Neumann",
+    "role": "Former Football Player",
+    "category": "public_figure",
+    "date_statement": "2023",
+    "date_recorded": "2023",
+    "source_url": "https://www.instagram.com/reel/C0G8D1bLz5_/?igshid=MzRlODBiNWFlZA==",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/reel/C0G8D1bLz5_/?igshid=MzRlODBiNWFlZA=="
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 32,
+    "quote": "We are coming to Gaza, we are coming to Lebanon, we are coming to Iran. How many of you will we kill? How many of you will we slaughter? Massacres you cannot imagine. We will kill as many as we want.",
+    "context": "Statement by a prominent Israeli TV personality.",
+    "description": "Added: 'We are ready to enter into a confrontation with America and the entire world.'",
+    "author": "Shai Golden",
+    "role": "Prominent Israeli TV Personality",
+    "category": "media",
+    "date_statement": "2023",
+    "date_recorded": "2023",
+    "source_url": "https://www.instagram.com/p/C0uc_A7r4EV/?igshid=MzRlODBiNWFlZA==",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/p/C0uc_A7r4EV/?igshid=MzRlODBiNWFlZA=="
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 33,
+    "quote": "The international community warns of a humanitarian catastrophe in Gaza and of severe epidemics. We must not shy away from it. Severe epidemics in the south of the Strip will hasten victory. The 'poor' women of Gaza are all the mothers, sisters or wives of Hamas murderers.",
+    "context": "Statement by former Israeli army general advocating for using epidemics as a weapon.",
+    "description": "",
+    "author": "Giora Eiland",
+    "role": "Former Israeli Army General",
+    "category": "military",
+    "date_statement": "2023",
+    "date_recorded": "2023",
+    "source_url": "https://mondoweiss.net/2023/11/influential-israeli-national-security-leader-makes-the-case-for-genocide-in-gaza/",
+    "source_type": "article",
+    "attachments": [
+      {
+        "type": "article",
+        "url": "https://mondoweiss.net/2023/11/influential-israeli-national-security-leader-makes-the-case-for-genocide-in-gaza/"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 34,
+    "quote": "The Nakba will be a sweet memory compared to what awaits them.",
+    "context": "An Israeli soldier declared: 'We are the sons of Joshua who conquered this land against 7 peoples. You remember the Canaanites? The Hittites? The Jebusites? They all disappeared from the face of the earth and Israel is here to stay.'",
+    "description": "",
+    "author": "Israeli Soldier",
+    "role": "IDF Soldier",
+    "category": "military",
+    "date_statement": "2023",
+    "date_recorded": "2023",
+    "source_url": "https://www.instagram.com/p/C0utYV4t9LP/?igshid=MzRlODBiNWFlZA==",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/p/C0utYV4t9LP/?igshid=MzRlODBiNWFlZA=="
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 35,
+    "quote": "I haven't got compassion for these Gazans. Nobody in Israel should have compassion for these Gazans. Not for the adults, not for the elderly, not for the young and the children. As far as I'm concerned, I don't care! Let them all die!",
+    "context": "Statement made on Israeli television by a journalist at the Knesset.",
+    "description": "",
+    "author": "Yaki Adamker",
+    "role": "Israeli Journalist at the Knesset",
+    "category": "media",
+    "date_statement": "2023",
+    "date_recorded": "2023",
+    "source_url": "https://www.instagram.com/reel/C1tnlivtDGs/?igsh=dXdtZzQ0anZqdWVv",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/reel/C1tnlivtDGs/?igsh=dXdtZzQ0anZqdWVv"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 36,
+    "quote": "Every person above 4 years old in Gaza is responsible.",
+    "context": "Former Mossad official declaring that anyone over 4 years old in Gaza is responsible.",
+    "description": "",
+    "author": "Rami Igra",
+    "role": "Former Head of MIA Unit, Mossad",
+    "category": "military",
+    "date_statement": "2024-02-14",
+    "date_recorded": "2024-02-14",
+    "source_url": "https://www.instagram.com/middleeasteye/reel/C3XFRsaP2D8/",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/middleeasteye/reel/C3XFRsaP2D8/"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 37,
+    "quote": "Yes, we say that we want to take their land, to take over the sea and to settle down, because only that way will they understand that we beat them.",
+    "context": "Journalist on Israeli media discussing the goals regarding Palestinian territory.",
+    "description": "",
+    "author": "Yinon Magal",
+    "role": "Israeli Journalist",
+    "category": "media",
+    "date_statement": "2024",
+    "date_recorded": "2024",
+    "source_url": "https://www.instagram.com/reel/C1x6AwoAs_j/?igsh=cXRkdzZwOHp0bjRr",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/reel/C1x6AwoAs_j/?igsh=cXRkdzZwOHp0bjRr"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 38,
+    "quote": "The world should thank Israel because they are cleaning the most disgusting toilets in the world.",
+    "context": "Journalist commenting on the massacre of 100+ Palestinians heading towards food supplies.",
+    "description": "",
+    "author": "Emily Amrusi",
+    "role": "Israeli Journalist",
+    "category": "media",
+    "date_statement": "2024",
+    "date_recorded": "2024",
+    "source_url": "https://www.instagram.com/reel/C27J71Pv5xV/?igsh=MWN0eGZmNnp0OWxmbQ==",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/reel/C27J71Pv5xV/?igsh=MWN0eGZmNnp0OWxmbQ=="
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 39,
+    "quote": "Kill all Palestinians in Gaza, including infants, children, women, and the elderly.",
+    "context": "Rabbi urging his IDF students to kill all Palestinians.",
+    "description": "",
+    "author": "Rabbi Eliyahu Mali",
+    "role": "Head of Jewish Religious School",
+    "category": "public_figure",
+    "date_statement": "2024",
+    "date_recorded": "2024",
+    "source_url": "https://www.instagram.com/reel/C3A0J7yI5ba/?igsh=Yml0OWE5bGQ5aHhs",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/reel/C3A0J7yI5ba/?igsh=Yml0OWE5bGQ5aHhs"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 40,
+    "quote": "We burn their village, we need to burn their villages. All soldiers in the army think like me.",
+    "context": "Popular singer on a TV set, applauded by the audience.",
+    "description": "",
+    "author": "Kobi Peretz",
+    "role": "Popular Israeli Singer",
+    "category": "public_figure",
+    "date_statement": "2024",
+    "date_recorded": "2024",
+    "source_url": "https://www.instagram.com/reel/C3nVhdCIDVU/?igsh=MWduNm9senAyYjA5eA==",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/reel/C3nVhdCIDVU/?igsh=MWduNm9senAyYjA5eA=="
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 41,
+    "quote": "Comparing Palestinians to animals is insulting to the animals, because they are less than animals.",
+    "context": "Statement by an Israeli academic.",
+    "description": "",
+    "author": "Mordechai Kedar",
+    "role": "Israeli Academic",
+    "category": "public_figure",
+    "date_statement": "2023",
+    "date_recorded": "2023",
+    "source_url": "https://www.instagram.com/reel/CytZ2j2sMdC/?igshid=MzRlODBiNWFlZA==",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/reel/CytZ2j2sMdC/?igshid=MzRlODBiNWFlZA=="
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 42,
+    "quote": "If we were dealing with people, we would send humanitarian aid to Gaza, but we are dealing with animals.",
+    "context": "Statement by a prominent rabbi.",
+    "description": "",
+    "author": "Rabbi Meir Mazuz",
+    "role": "Rabbi",
+    "category": "public_figure",
+    "date_statement": "2023",
+    "date_recorded": "2023",
+    "source_url": "https://www.instagram.com/reel/C1q0B3KIewE/?igsh=MWNmcTdlcXZocTZ3cw==",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/reel/C1q0B3KIewE/?igsh=MWNmcTdlcXZocTZ3cw=="
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 43,
+    "quote": "The war is not against Hamas only, but against all the civilians.",
+    "context": "Statement by an IDF soldier.",
+    "description": "",
+    "author": "IDF Soldier",
+    "role": "IDF Soldier",
+    "category": "military",
+    "date_statement": "2024",
+    "date_recorded": "2024",
+    "source_url": "https://www.instagram.com/reel/DBmPTMss5MN/?igsh=MTVvanViOG1vZzJjOA%3D%3D",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/reel/DBmPTMss5MN/?igsh=MTVvanViOG1vZzJjOA%3D%3D"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 44,
+    "quote": "We will end things inside Gaza. I have removed all restraints. Attack everything, kill those who fight us. Through the air, land, with tanks, with bulldozers, by all means, there are no compromises. Gaza will not return to what it was.",
+    "context": "Statement on Channel 14 on 9 October 2023.",
+    "description": "",
+    "author": "Yoav Gallant",
+    "role": "Defense Minister of Israel",
+    "category": "politician",
+    "date_statement": "2023-10-09",
+    "date_recorded": "2023-10-09",
+    "source_url": "https://www.youtube.com/playlist?list=PL8E54R76rowCcCOn_HQf36o1RF3_oD3z4",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/playlist?list=PL8E54R76rowCcCOn_HQf36o1RF3_oD3z4"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 45,
+    "quote": "We are the people of the light, they are the people of darkness... we shall realize the prophecy of Isaiah.",
+    "context": "Statement made on 25 October 2023.",
+    "description": "",
+    "author": "Benjamin Netanyahu",
+    "role": "Prime Minister of Israel",
+    "category": "politician",
+    "date_statement": "2023-10-25",
+    "date_recorded": "2023-10-25",
+    "source_url": "https://www.youtube.com/playlist?list=PL8E54R76rowCcCOn_HQf36o1RF3_oD3z4",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/playlist?list=PL8E54R76rowCcCOn_HQf36o1RF3_oD3z4"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 46,
+    "quote": "Every child, every baby in Gaza is an enemy. The enemy is not Hamas... We need to conquer Gaza and colonize it and not leave a single Gazan child there. There is no other victory.",
+    "context": "Statement on Channel 14.",
+    "description": "",
+    "author": "Moshe Feiglin",
+    "role": "Former Member of Knesset",
+    "category": "politician",
+    "date_statement": "2025",
+    "date_recorded": "2025",
+    "source_url": "https://www.instagram.com/reel/DJ3unkiIDyp/?igsh=NW9pazF4dWtoaTVo",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/reel/DJ3unkiIDyp/?igsh=NW9pazF4dWtoaTVo"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 47,
+    "quote": "When you fight against a group like this, the distinction that exists in a normal world no longer exists.",
+    "context": "Likud MP responding to an NGO official proposing not to deprive children of care, on 8 May 2025.",
+    "description": "Halevi stated he was 'not sure' the NGO representative was speaking for them when she said they wanted to treat every child and woman.",
+    "author": "Amit Halevi",
+    "role": "Likud Member of Knesset",
+    "category": "politician",
+    "date_statement": "2025-05-08",
+    "date_recorded": "2025-05-08",
+    "source_url": "https://www.instagram.com/p/DJ6-rPDqEQM/?img_index=5&igsh=bDdjNWxndTFmM25h",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/p/DJ6-rPDqEQM/?img_index=5&igsh=bDdjNWxndTFmM25h"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 48,
+    "quote": "The Palestinians of Gaza are scoundrels, subhumans. The children and women must be separated and the adults of Gaza must be eliminated.",
+    "context": "Statement on Kol Barama radio, 23 February 2025.",
+    "description": "",
+    "author": "Nissim Vaturi",
+    "role": "Deputy Speaker of the Knesset",
+    "category": "politician",
+    "date_statement": "2025-02-23",
+    "date_recorded": "2025-02-23",
+    "source_url": "https://kol-barama.co.il/item/%D7%97%D7%9B-%D7%A0%D7%99%D7%A1%D7%99%D7%9D-%D7%95%D7%90%D7%98%D7%95%D7%A8%D7%99-%D7%91%D7%9E%D7%AA%D7%A7%D7%A4%D7%94-%D7%A7%D7%A9%D7%94-%D7%94%D7%9D-%D7%A0%D7%91%D7%9C%D7%95%D7%AA-%D7%90%D7%A3/",
+    "source_type": "article",
+    "attachments": [
+      {
+        "type": "article",
+        "url": "https://kol-barama.co.il/item/%D7%97%D7%9B-%D7%A0%D7%99%D7%A1%D7%99%D7%9D-%D7%95%D7%90%D7%98%D7%95%D7%A8%D7%99-%D7%91%D7%9E%D7%AA%D7%A7%D7%A4%D7%94-%D7%A7%D7%A9%D7%94-%D7%94%D7%9D-%D7%A0%D7%91%D7%9C%D7%95%D7%AA-%D7%90%D7%A3/"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 49,
+    "quote": "I want to completely starve Gaza.",
+    "context": "Statement on Channel 14, 25 April 2025.",
+    "description": "",
+    "author": "Moshe Saada",
+    "role": "Likud Member of Knesset",
+    "category": "politician",
+    "date_statement": "2025-04-25",
+    "date_recorded": "2025-04-25",
+    "source_url": "https://www.instagram.com/reel/DI8sElHg7et/?igsh=Z3V1bDFkbjJzNHoz",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/reel/DI8sElHg7et/?igsh=Z3V1bDFkbjJzNHoz"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 50,
+    "quote": "We killed civilians who were then listed as terrorists. The killing of Palestinians turned into a competition between units. If division 99 kills 150, the next unit aims for 200.",
+    "context": "Officer of the 252nd division speaking to Haaretz newspaper.",
+    "description": "",
+    "author": "IDF Officer, 252nd Division",
+    "role": "IDF Officer",
+    "category": "military",
+    "date_statement": "2024-12",
+    "date_recorded": "2024-12-18",
+    "source_url": "https://www.haaretz.com/israel-news/2024-12-18/ty-article-magazine/.premium/idf-soldiers-expose-arbitrary-killings-and-rampant-lawlessness-in-gazas-netzarim-corridor/00000193-da7f-de86-a9f3-fefff2e50000",
+    "source_type": "article",
+    "attachments": [
+      {
+        "type": "article",
+        "url": "https://www.haaretz.com/israel-news/2024-12-18/ty-article-magazine/.premium/idf-soldiers-expose-arbitrary-killings-and-rampant-lawlessness-in-gazas-netzarim-corridor/00000193-da7f-de86-a9f3-fefff2e50000"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 51,
+    "quote": "Women, babies, pregnant women in Gaza are enemies to be eliminated.",
+    "context": "Statement by journalist Eliyahu Yossian on 27 December 2023.",
+    "description": "",
+    "author": "Eliyahu Yossian",
+    "role": "Israeli Journalist",
+    "category": "media",
+    "date_statement": "2023-12-27",
+    "date_recorded": "2023-12-27",
+    "source_url": "https://youtu.be/Q3S1pY7JMVY?si=Gm-QjBO1dk7CM1fJ&t=327",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://youtu.be/Q3S1pY7JMVY?si=Gm-QjBO1dk7CM1fJ&t=327"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 52,
+    "quote": "The goal of the operation is to send Gaza back to the Middle Ages. Only then will Israel be calm for forty years.",
+    "context": "Statement made in 2012.",
+    "description": "",
+    "author": "Eli Yishai",
+    "role": "Interior Minister of Israel",
+    "category": "politician",
+    "date_statement": "2012",
+    "date_recorded": "2012",
+    "source_url": "https://www.instagram.com/reel/Cy_aSp6JEhQ/?igshid=MzRlODBiNWFlZA==",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/reel/Cy_aSp6JEhQ/?igshid=MzRlODBiNWFlZA=="
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 53,
+    "quote": "The residents of Gaza are not innocent. We need to flatten entire neighborhoods in Gaza. Flatten all of Gaza. The Americans didn't stop with Hiroshima. There should be no electricity in Gaza, no gasoline or moving vehicles, nothing.",
+    "context": "Statement made in 2012, comparing the situation to Hiroshima and Nagasaki.",
+    "description": "",
+    "author": "Gilad Sharon",
+    "role": "Son of Former PM Ariel Sharon",
+    "category": "public_figure",
+    "date_statement": "2012",
+    "date_recorded": "2012",
+    "source_url": "https://www.instagram.com/reel/CyLYdh-rZVX/?igshid=MzRlODBiNWFlZA==",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/reel/CyLYdh-rZVX/?igshid=MzRlODBiNWFlZA=="
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 54,
+    "quote": "I'm proud to be a racist.",
+    "context": "Statement made in 2012, before becoming Minister of Women Empowerment.",
+    "description": "",
+    "author": "May Golan",
+    "role": "Minister of Women Empowerment",
+    "category": "politician",
+    "date_statement": "2012",
+    "date_recorded": "2012",
+    "source_url": "https://www.instagram.com/reel/C0fCzftIEAI/?igshid=MzRlODBiNWFlZA==",
+    "source_type": "video",
+    "attachments": [
+      {
+        "type": "video",
+        "url": "https://www.instagram.com/reel/C0fCzftIEAI/?igshid=MzRlODBiNWFlZA=="
+      }
     ],
     "image": ""
   }
