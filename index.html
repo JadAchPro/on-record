@@ -4,39 +4,287 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ON RECORD</title>
-  <link rel="stylesheet" href="css/style.css">
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #0a0a0a;
+      color: #e0e0e0;
+      font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+      height: 100vh;
+      overflow: hidden;
+      user-select: none;
+    }
+
+    /* Nav link */
+    .nav-archive {
+      position: fixed;
+      top: 24px;
+      right: 28px;
+      z-index: 100;
+      color: #666;
+      text-decoration: none;
+      font-size: 0.8rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      border: 1px solid #333;
+      padding: 8px 16px;
+      transition: all 0.3s;
+    }
+    .nav-archive:hover {
+      color: #fff;
+      border-color: #888;
+    }
+
+    /* Title */
+    .slide-title {
+      position: fixed;
+      top: 24px;
+      left: 28px;
+      z-index: 100;
+      font-size: 1rem;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      color: #333;
+    }
+
+    /* Counter */
+    .slide-counter {
+      position: fixed;
+      bottom: 24px;
+      right: 28px;
+      z-index: 100;
+      font-size: 0.75rem;
+      color: #444;
+      letter-spacing: 0.05em;
+    }
+
+    /* Hint */
+    .slide-hint {
+      position: fixed;
+      bottom: 24px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 100;
+      font-size: 0.7rem;
+      color: #333;
+      letter-spacing: 0.05em;
+      transition: opacity 1s;
+    }
+
+    /* Slide container */
+    .slide {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 60px 40px;
+      cursor: pointer;
+      opacity: 0;
+      transition: opacity 0.5s ease;
+    }
+    .slide.active {
+      opacity: 1;
+    }
+
+    .slide-quote {
+      font-size: clamp(1.3rem, 3vw, 2.2rem);
+      font-style: italic;
+      color: #e0e0e0;
+      max-width: 800px;
+      text-align: center;
+      line-height: 1.6;
+      margin-bottom: 40px;
+    }
+    .slide-quote::before {
+      content: '\201C';
+      font-size: 3rem;
+      color: #333;
+      display: block;
+      margin-bottom: 12px;
+    }
+    .slide-quote::after {
+      content: '\201D';
+      font-size: 3rem;
+      color: #333;
+      display: block;
+      margin-top: 12px;
+    }
+
+    .slide-author {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #fff;
+      margin-bottom: 4px;
+    }
+
+    .slide-role {
+      font-size: 0.85rem;
+      color: #777;
+      margin-bottom: 4px;
+    }
+
+    .slide-date {
+      font-size: 0.75rem;
+      color: #555;
+      margin-bottom: 16px;
+    }
+
+    .slide-source {
+      font-size: 0.7rem;
+      color: #444;
+    }
+    .slide-source a {
+      color: #555;
+      text-decoration: underline;
+    }
+    .slide-source a:hover {
+      color: #999;
+    }
+
+    /* Progress bar */
+    .progress-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      height: 2px;
+      background: #333;
+      transition: width 0.5s ease;
+      z-index: 100;
+    }
+
+    @media (max-width: 600px) {
+      .slide { padding: 80px 24px 60px; }
+      .slide-quote { font-size: 1.1rem; }
+      .nav-archive { top: auto; bottom: 60px; right: 16px; font-size: 0.7rem; padding: 6px 12px; }
+      .slide-title { font-size: 0.8rem; }
+    }
+  </style>
 </head>
 <body>
 
-  <header>
-    <h1>ON RECORD</h1>
-    <p class="intro">
-      A public archive of statements made by Israeli political leaders, military officials, media figures, and public personalities — in their own words.
-    </p>
-    <p class="disclaimer">
-      All quotes are sourced from public, verifiable records. Each entry links directly to its original source.
-    </p>
-    <div class="counter" id="counter"></div>
-  </header>
+  <div class="slide-title">ON RECORD</div>
+  <a href="archive.html" class="nav-archive">Full Archive</a>
 
-  <nav class="filters">
-    <div class="filter-buttons">
-      <button class="filter-btn active" data-category="all">All</button>
-      <button class="filter-btn" data-category="politician">Politicians</button>
-      <button class="filter-btn" data-category="military">Military</button>
-      <button class="filter-btn" data-category="media">Media</button>
-      <button class="filter-btn" data-category="public_figure">Public Figures</button>
-    </div>
-    <input type="text" class="search-bar" id="searchBar" placeholder="Search by name or keyword...">
-  </nav>
+  <div id="slideContainer"></div>
 
-  <main class="grid" id="grid"></main>
+  <div class="slide-counter" id="slideCounter"></div>
+  <div class="slide-hint" id="slideHint">Click or press any key to continue</div>
+  <div class="progress-bar" id="progressBar"></div>
 
-  <footer>
-    <p>This archive is a documentation effort. It does not claim to represent all views within Israeli society.</p>
-    <p>Contributions and corrections welcome — <a href="mailto:contact@example.com">contact</a></p>
-  </footer>
+  <script>
+  (function () {
+    'use strict';
 
-  <script src="js/app.js"></script>
+    var allData = [];
+    var currentIndex = 0;
+
+    fetch('data.json')
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        allData = shuffle(data);
+        showSlide();
+      });
+
+    // Fisher-Yates shuffle
+    function shuffle(arr) {
+      var a = arr.slice();
+      for (var i = a.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var t = a[i]; a[i] = a[j]; a[j] = t;
+      }
+      return a;
+    }
+
+    function showSlide() {
+      var item = allData[currentIndex];
+      var container = document.getElementById('slideContainer');
+
+      // Remove old
+      var old = container.querySelector('.slide.active');
+      if (old) {
+        old.style.opacity = '0';
+        setTimeout(function () { if (old.parentNode) old.parentNode.removeChild(old); }, 500);
+      }
+
+      // Build new
+      var slide = document.createElement('div');
+      slide.className = 'slide';
+
+      var html = '<div class="slide-quote">' + escapeHtml(item.quote) + '</div>';
+      html += '<div class="slide-author">' + escapeHtml(item.author) + '</div>';
+      html += '<div class="slide-role">' + escapeHtml(item.role || '') + '</div>';
+      if (item.date_statement) {
+        html += '<div class="slide-date">' + escapeHtml(item.date_statement) + '</div>';
+      }
+      if (item.source_url) {
+        html += '<div class="slide-source"><a href="' + escapeAttr(item.source_url) + '" target="_blank" rel="noopener" onclick="event.stopPropagation()">source</a></div>';
+      }
+      slide.innerHTML = html;
+
+      container.appendChild(slide);
+      // Trigger reflow then animate in
+      slide.offsetHeight;
+      slide.classList.add('active');
+
+      // Counter
+      document.getElementById('slideCounter').textContent = (currentIndex + 1) + ' / ' + allData.length;
+
+      // Progress bar
+      var pct = ((currentIndex + 1) / allData.length) * 100;
+      document.getElementById('progressBar').style.width = pct + '%';
+
+      // Hide hint after first interaction
+      if (currentIndex > 0) {
+        document.getElementById('slideHint').style.opacity = '0';
+      }
+    }
+
+    function next() {
+      currentIndex = (currentIndex + 1) % allData.length;
+      showSlide();
+    }
+
+    function prev() {
+      currentIndex = (currentIndex - 1 + allData.length) % allData.length;
+      showSlide();
+    }
+
+    // Click anywhere to advance
+    document.addEventListener('click', function (e) {
+      if (e.target.tagName === 'A') return;
+      next();
+    });
+
+    // Keyboard
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') { prev(); }
+      else if (e.key === 'ArrowRight' || e.key === 'ArrowDown' || e.key === ' ' || e.key === 'Enter') { next(); }
+    });
+
+    // Swipe support
+    var touchStartX = 0;
+    document.addEventListener('touchstart', function (e) { touchStartX = e.touches[0].clientX; });
+    document.addEventListener('touchend', function (e) {
+      var diff = e.changedTouches[0].clientX - touchStartX;
+      if (Math.abs(diff) > 50) {
+        if (diff < 0) next(); else prev();
+      }
+    });
+
+    function escapeHtml(str) {
+      if (!str) return '';
+      var d = document.createElement('div');
+      d.textContent = str;
+      return d.innerHTML;
+    }
+    function escapeAttr(str) {
+      if (!str) return '';
+      return str.replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/'/g,'&#39;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    }
+  })();
+  </script>
 </body>
 </html>
