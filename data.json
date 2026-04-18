@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "quote": "I feel very much connected to the vision of Greater Israel.",
+    "context": "Interview with journalist Sharon Gal on i24NEWS. When asked directly whether he supports the vision of Greater Israel, Netanyahu affirmed it without hesitation.",
+    "description": "Netanyahu describes himself as being on a 'historic and spiritual mission' aligned with the concept of Greater Israel, which envisions Israeli sovereignty extending beyond current borders into parts of Jordan and Egypt.",
+    "author": "Benjamin Netanyahu",
+    "role": "Prime Minister of Israel",
+    "category": "politician",
+    "date_statement": "2025-08",
+    "date_recorded": "2025-08",
+    "source_url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-says-hes-on-a-historic-and-spiritual-mission-endorses-vision-of-greater-israel/",
+    "source_type": "article",
+    "attachments": [
+      {"type": "article", "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-says-hes-on-a-historic-and-spiritual-mission-endorses-vision-of-greater-israel/"},
+      {"type": "article", "url": "https://www.middleeasteye.net/news/netanyahu-embraces-greater-israel-vision-including-parts-jordan-and-egypt"}
+    ],
+    "image": ""
+  },
+  {
+    "id": 2,
+    "quote": "The future of Jerusalem is to expand to Damascus.",
+    "context": "Bezalel Smotrich, leader of the far-right Religious Zionism party, has repeatedly called for extending Israel's borders to Syria, Lebanon, Jordan, and parts of Saudi Arabia. In March 2023, he gave a speech in Paris behind a podium displaying a map of 'Greater Israel' including Trans-Jordan.",
+    "description": "Smotrich also declared the Palestinian people to be 'an invention' and stated that building settlements in E1 'buries the idea of a Palestinian state'. His territorial claims are based on religious texts predicting the expansion of Jewish sovereignty from the Nile to the Euphrates.",
+    "author": "Bezalel Smotrich",
+    "role": "Finance Minister of Israel",
+    "category": "politician",
+    "date_statement": "2024-10",
+    "date_recorded": "2024-10",
+    "source_url": "https://www.palestinechronicle.com/greater-israel-project-smotrich-calls-for-israels-borders-to-extend-to-syria-saudi-arabia/",
+    "source_type": "article",
+    "attachments": [
+      {"type": "article", "url": "https://www.palestinechronicle.com/greater-israel-project-smotrich-calls-for-israels-borders-to-extend-to-syria-saudi-arabia/"},
+      {"type": "article", "url": "https://www.axios.com/2023/03/20/bezalel-smotrich-jordan-greater-israel-map-palestinians"},
+      {"type": "article", "url": "https://www.middleeastmonitor.com/20241120-smotrich-has-confirmed-that-the-quest-for-greater-israel-is-real/"}
+    ],
+    "image": ""
+  },
+  {
+    "id": 3,
+    "quote": "It would be fine if they took it all.",
+    "context": "Interview with Tucker Carlson. Carlson described the biblical borders promised to the descendants of Abraham — from the Nile to the Euphrates, encompassing Lebanon, Syria, Jordan, and parts of Saudi Arabia and Egypt. Huckabee responded with this statement.",
+    "description": "Huckabee later attempted to walk back his statement, calling it 'a somewhat hyperbolic statement', while still leaving the door open to Israeli expansionism based on his religious interpretation. The comment drew near-unanimous condemnation from Middle Eastern countries including UAE, Saudi Arabia, Egypt, Jordan, and Qatar.",
+    "author": "Mike Huckabee",
+    "role": "US Ambassador to Israel",
+    "category": "politician",
+    "date_statement": "2026-02",
+    "date_recorded": "2026-02-20",
+    "source_url": "https://www.aljazeera.com/news/2026/2/20/us-envoy-suggests-it-would-be-fine-if-israel-expands-across-middle-east",
+    "source_type": "article",
+    "attachments": [
+      {"type": "article", "url": "https://www.aljazeera.com/news/2026/2/20/us-envoy-suggests-it-would-be-fine-if-israel-expands-across-middle-east"},
+      {"type": "article", "url": "https://www.cnn.com/2026/02/21/middleeast/huckabee-israel-us-land-intl"}
+    ],
+    "image": ""
+  }
+]
