@@ -1093,5 +1093,127 @@
       }
     ],
     "image": ""
+  },
+  {
+    "id": 55,
+    "quote": "There will be a political step in Lebanon that expands our borders. The Litani must be our new border with the state of Lebanon.",
+    "context": "Statement at an event inaugurating the illegal settlement of Maoz Tzur in the West Bank, April 2025. Smotrich also called for border expansion into Gaza and Syria.",
+    "description": "Smotrich stated: 'There will be a political step in the Gaza Strip that will expand our borders, a decisive political step in Lebanon that will extend our borders to the Litani River on defensible lines, and a decisive political step in Syria with the annexation of Mount Hermon.'",
+    "author": "Bezalel Smotrich",
+    "role": "Finance Minister of Israel",
+    "category": "politician",
+    "date_statement": "2025-04",
+    "date_recorded": "2025-04",
+    "source_url": "https://www.timesofisrael.com/smotrich-says-litani-river-should-be-israels-new-border-with-lebanon/",
+    "source_type": "article",
+    "attachments": [
+      {"type": "article", "url": "https://www.timesofisrael.com/smotrich-says-litani-river-should-be-israels-new-border-with-lebanon/"},
+      {"type": "article", "url": "https://www.aljazeera.com/news/2026/3/23/smotrich-urges-israel-to-annex-southern-lebanon-as-assault-intensifies"}
+    ],
+    "image": ""
+  },
+  {
+    "id": 56,
+    "quote": "To plant trees and strike roots in the soil of our land, regardless of fences. The State of Israel must renew settlement in Lebanon — it is justified in a historic, moral, and security-wise sense.",
+    "context": "Uri Tzafon leader Anna Slutskin after dozens of settlers physically crossed the border fence into Lebanon near Yir'on to plant trees, February 2026.",
+    "description": "",
+    "author": "Anna Slutskin",
+    "role": "Leader of Uri Tzafon movement",
+    "category": "public_figure",
+    "date_statement": "2026-02",
+    "date_recorded": "2026-02-13",
+    "source_url": "https://www.jpost.com/israel-news/article-886561",
+    "source_type": "article",
+    "attachments": [
+      {"type": "article", "url": "https://www.jpost.com/israel-news/article-886561"}
+    ],
+    "image": ""
+  },
+  {
+    "id": 57,
+    "quote": "I support annexation and Israeli settlement of southern Lebanon.",
+    "context": "Public statement by Religious Zionist MK in support of the settlement movement in Lebanon.",
+    "description": "",
+    "author": "Ohad Tal",
+    "role": "Religious Zionist Member of Knesset",
+    "category": "politician",
+    "date_statement": "2025",
+    "date_recorded": "2025",
+    "source_url": "https://jewishcurrents.org/support-for-settlement-of-lebanon-goes-mainstream-in-israel",
+    "source_type": "article",
+    "attachments": [
+      {"type": "article", "url": "https://jewishcurrents.org/support-for-settlement-of-lebanon-goes-mainstream-in-israel"}
+    ],
+    "image": ""
+  },
+  {
+    "id": 58,
+    "quote": "Sovereignty and settlement are the keys for peace and security.",
+    "context": "Jewish Power MK supporting the settlement of southern Lebanon.",
+    "description": "",
+    "author": "Yitzhak Kroizer",
+    "role": "Jewish Power Member of Knesset",
+    "category": "politician",
+    "date_statement": "2025",
+    "date_recorded": "2025",
+    "source_url": "https://jewishcurrents.org/support-for-settlement-of-lebanon-goes-mainstream-in-israel",
+    "source_type": "article",
+    "attachments": [
+      {"type": "article", "url": "https://jewishcurrents.org/support-for-settlement-of-lebanon-goes-mainstream-in-israel"}
+    ],
+    "image": ""
+  },
+  {
+    "id": 59,
+    "quote": "Everything between the Litani and Israel must be under the control of the IDF. Lebanon must pay in territory.",
+    "context": "Statement in January 2024 during a Yisrael Beiteinu faction meeting. Lieberman compared it to the post-WWII military occupation of Germany and said Israel should occupy southern Lebanon for up to 50 years.",
+    "description": "",
+    "author": "Avigdor Lieberman",
+    "role": "Former Defense Minister, Chairman of Yisrael Beiteinu",
+    "category": "politician",
+    "date_statement": "2024-01",
+    "date_recorded": "2024-01",
+    "source_url": "https://www.timesofisrael.com/liveblog_entry/liberman-demands-lebanon-pay-in-territory-for-attacks-on-israel-calls-for-buffer-zone/",
+    "source_type": "article",
+    "attachments": [
+      {"type": "article", "url": "https://www.timesofisrael.com/liveblog_entry/liberman-demands-lebanon-pay-in-territory-for-attacks-on-israel-calls-for-buffer-zone/"}
+    ],
+    "image": ""
+  },
+  {
+    "id": 60,
+    "quote": "We will control southern Lebanon up to the Litani. Border villages will be destroyed. Hundreds of thousands of residents who evacuated will not return.",
+    "context": "Statement by Defense Minister Israel Katz, March 2026, announcing permanent military control of southern Lebanon.",
+    "description": "Katz added: 'The principle is clear: as long as there is terror and missiles, there are no houses and no residents.'",
+    "author": "Israel Katz",
+    "role": "Defense Minister of Israel",
+    "category": "politician",
+    "date_statement": "2026-03",
+    "date_recorded": "2026-03-24",
+    "source_url": "https://www.ynetnews.com/article/zhryve31q",
+    "source_type": "article",
+    "attachments": [
+      {"type": "article", "url": "https://www.ynetnews.com/article/zhryve31q"},
+      {"type": "article", "url": "https://www.haaretz.com/israel-news/israel-security/2026-03-24/ty-article/israel-to-hold-southern-lebanon-block-residents-return-defense-minister-says/0000019d-1f6a-d7c1-a59f-df7b2cd60000"}
+    ],
+    "image": ""
+  },
+  {
+    "id": 61,
+    "quote": "We will expand our borders in Gaza, Lebanon and Syria — that's what they respect in our neighborhood.",
+    "context": "Statement by Smotrich calling for territorial expansion on three fronts simultaneously, April 2026.",
+    "description": "",
+    "author": "Bezalel Smotrich",
+    "role": "Finance Minister of Israel",
+    "category": "politician",
+    "date_statement": "2026-04",
+    "date_recorded": "2026-04-10",
+    "source_url": "https://www.ynetnews.com/article/bwj6e071i",
+    "source_type": "article",
+    "attachments": [
+      {"type": "article", "url": "https://www.ynetnews.com/article/bwj6e071i"},
+      {"type": "article", "url": "https://www.middleeastmonitor.com/20260410-smotrich-speaks-about-israels-intention-to-expand-in-syria-lebanon-and-gaza/"}
+    ],
+    "image": ""
   }
 ]
